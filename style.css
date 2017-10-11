@@ -1,2 +1,8 @@
 @import 'https://fonts.googleapis.com/css?family=Alegreya+Sans';
 
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}

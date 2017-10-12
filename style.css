@@ -263,5 +263,34 @@ footer.second p {
 /* media queries starting */
 
 @media screen and (max-width: 768px) {
-  
+  h2 {
+    font-size: 150%;
+  }
+
+  h3 {
+    font-size: 125%;
+  }
+
+  p {
+    font-size: 120%;
+  }
+
+  header {
+    position: absolute;
+  }
+
+  #logo {
+    margin: 15px 0 20px -25px;
+    background: url(img/RD_mobile.png) no-repeat center;
+  }
+
+  #menu-icon {
+    display: inline-block;
+  }
+
+  nav ul, nav:active ul {
+    display: none;
+    
+  }
+
 }

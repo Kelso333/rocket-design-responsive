@@ -258,3 +258,10 @@ footer.second p {
   padding: 5px 0 9px 0;
   text-align: center;
 }
+
+
+/* media queries starting */
+
+@media screen and (max-width: 768px) {
+  
+}
